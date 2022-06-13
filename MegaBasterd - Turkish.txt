@@ -260,3 +260,11 @@ _addTranslation("Use custom temporary directory for chunks storage", "Birleştir
 _addTranslation("CANCEL ALL DOWNLOADS", "TÜM İNDİRMELERİ İPTAL ET");
 _addTranslation("Save debug info to file", "Hata ayıklama bilgilerini dosyaya kaydet");
 _addTranslation("Use this proxy list Format is [*]IP:PORT[@user_b64:password_b64]", "Bu proxy biçim listesini kullan: [*]IP:PORT[@user_b64:password_b64]");
+_addTranslation("Slots", "Slot");
+_addTranslation("MC reverse mode: OFF", "Ters MC modu: KAPALI");
+_addTranslation("Pre:", "Hazırlık aşamasında");
+_addTranslation("Pro:", "Pro");
+_addTranslation("Wait:", "Bekleme aşamasında");
+_addTranslation("Run:", "indirme aşamasında:");
+_addTranslation("Finish:", "Tamamlandı:");
+_addTranslation("Rem:", "Rem:");
